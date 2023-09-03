@@ -129,8 +129,11 @@ This project was created using the following technologies.
 ![7](https://user-images.githubusercontent.com/111676859/226197312-b7bf6ae6-2c05-4b1d-bc25-4262af3f04f2.png)
 --- - 
 <img width="719" alt="Screenshot 2023-09-03 123715" src="https://github.com/divyanshnama/blog-website-mern/assets/104021285/ab5d7113-9246-4dbd-b6ae-9d6722562dca">
+
 <img width="680" alt="Screenshot 2023-09-03 123739" src="https://github.com/divyanshnama/blog-website-mern/assets/104021285/3d51c3e5-03f8-4d66-9840-7c0f414e6e29">
+
 <img width="575" alt="Screenshot 2023-09-03 123901" src="https://github.com/divyanshnama/blog-website-mern/assets/104021285/0ae9a9d4-93af-45be-9b42-e9359b926965">
+
 <img width="568" alt="Screenshot 2023-09-03 123942" src="https://github.com/divyanshnama/blog-website-mern/assets/104021285/ec276c55-e75b-4d59-837d-5af9297eb9a9">
 
 
