@@ -5,39 +5,15 @@ Fullstack open source blogging application (MERN) </h5>
 
   * [📸 Screenshots](#screenshots)
  
-## Configuration and Setup
-In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
-- Open the project in your prefered code editor.
-- Go to terminal -> New terminal (If you are using VS code)
-- Split your terminal into two (run the Frontend on one terminal and the Backend on the other terminal)
-In the first terminal
-```
-$ cd Frontend
-$ npm install (to install frontend-side dependencies)
-$ npm run  start (to start the frontend)
-```
-In the second terminal
-- cd Backend and Set environment variables in config.env under ./config
-- Create your mongoDB connection url, which you'll use as your MONGO_URI
-- Supply the following credentials
-```
-```
-```
-# --- Terminal ---
-$ npm install (to install backend-side dependencies)
-$ npm start (to start the backend)
-```
 ##  Key Features
 
 - User registration and login
 - Authentication using JWT Tokens
-- Story searching  and pagination 
 - Story searching  
 - CRUD operations (Story create, read, update and delete)
 - Upload user ımages and story ımages  to the server
 - Liking  stories and adding stories  to the Reading list
 - Commenting  on the story
-- Skeleton loading effect
 - Responsive Design
 
 <br/>
